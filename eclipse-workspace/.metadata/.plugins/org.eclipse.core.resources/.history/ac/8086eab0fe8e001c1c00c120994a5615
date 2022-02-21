@@ -1,0 +1,24 @@
+package JavaBasics;
+
+public class DataTypes {
+
+	// Hi this is my first Java program
+			/* Hi
+			 test
+			 */
+	
+	//main() method is starting/execution point of the program
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int a1 = 64;
+		int c1 = 100;
+		
+		System.out.println(Math.max(a1,c1));
+		System.out.println(Math.min(a1,c1));
+		System.out.println(Math.sqrt(a1));
+		System.out.println(Math.abs(-4.7));
+		System.out.println(Math.random());
+	}
+
+}
